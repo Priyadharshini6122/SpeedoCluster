@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Speedo_Cluster">D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Speedo_Cluster</file>
+
+  </qresource>
+</RCC>

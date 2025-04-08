@@ -1,0 +1,5 @@
+module Speedo_Cluster
+typeinfo appSpeedo_Cluster.qmltypes
+prefer :/qt/qml/Speedo_Cluster/
+Main 1.0 Main.qml
+

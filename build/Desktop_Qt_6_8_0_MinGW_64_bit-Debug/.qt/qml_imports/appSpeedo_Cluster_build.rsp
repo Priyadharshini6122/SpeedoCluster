@@ -1,0 +1,14 @@
+-rootPath
+D:/Speedo_Cluster
+-cmake-output
+-output-file
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/qml_imports/appSpeedo_Cluster_build.cmake
+-importPath
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Speedo_Cluster
+-importPath
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.0/mingw_64/qml
+-qrcFiles
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Speedo_Cluster.qrc
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/appSpeedo_Cluster_raw_qml_0.qrc

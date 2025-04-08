@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d17088d79da54458536e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Speedo_Cluster",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-7052bc12d10e7b00256d.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-28b70704d3cda234a5ba.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6f8d01a0882c5ade8287.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b3488780cfbaca5b689a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f85159f7e0acc816d6b2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster-Debug-0d4779e8a3d558466752.json",
+					"name" : "appSpeedo_Cluster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_autogen-Debug-63a60fe1903437672153.json",
+					"name" : "appSpeedo_Cluster_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_autogen_timestamp_deps-Debug-027e31d5a5d2ca437d9d.json",
+					"name" : "appSpeedo_Cluster_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_qmlimportscan-Debug-b0fc85dab8f4455726d9.json",
+					"name" : "appSpeedo_Cluster_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_qmllint-Debug-76c1c970b6bf1652aefb.json",
+					"name" : "appSpeedo_Cluster_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_qmllint_json-Debug-0488d5929c098e6b0a7a.json",
+					"name" : "appSpeedo_Cluster_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_qmllint_module-Debug-69954df7fb5ce9032701.json",
+					"name" : "appSpeedo_Cluster_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_qmltyperegistration-Debug-98ef8a864770f7cf6719.json",
+					"name" : "appSpeedo_Cluster_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSpeedo_Cluster_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSpeedo_Cluster_tooling-Debug-15c39e843ac39ea74f54.json",
+					"name" : "appSpeedo_Cluster_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appSpeedo_Cluster_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appSpeedo_Cluster_aotstats_targets-Debug-2643d660173275b0eb7d.json",
+					"name" : "module_appSpeedo_Cluster_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/Speedo_Cluster"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

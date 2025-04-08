@@ -1,0 +1,10 @@
+-I
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.8.0/mingw_64/qml
+--resource
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Speedo_Cluster.qrc
+--resource
+D:/Speedo_Cluster/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/.qt/rcc/appSpeedo_Cluster_raw_qml_0.qrc
+--module
+Speedo_Cluster

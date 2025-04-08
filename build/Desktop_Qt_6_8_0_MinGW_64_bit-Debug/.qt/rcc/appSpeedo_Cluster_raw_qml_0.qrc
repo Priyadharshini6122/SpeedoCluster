@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Speedo_Cluster/">
+    <file alias="Main.qml">D:/Speedo_Cluster/Main.qml</file>
+  </qresource>
+</RCC>
+
